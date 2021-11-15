@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lola",
+    "apellido": "Perez",
+    "edad": 35,
+    "fecha": "2021-11-15T05:57:51",
+    "provincia": "Catamarca"
+  },
+  {
+    "id": 2,
+    "nombre": "Maria",
+    "apellido": "Lopez",
+    "edad": 23,
+    "fecha": "2021-11-15T06:02:03",
+    "provincia": "La Rioja"
+  },
+  {
+    "id": 3,
+    "nombre": "Rosa",
+    "apellido": "Martinez",
+    "edad": 58,
+    "fecha": "2021-11-15T06:02:03",
+    "provincia": "Santa Cruz"
+  },
+  {
+    "id": 4,
+    "nombre": "Brenda",
+    "apellido": "Ruiz",
+    "edad": 42,
+    "fecha": "2021-11-15T06:02:03",
+    "provincia": "Jujuy"
+  },
+  {
+    "id": 5,
+    "nombre": "Marta",
+    "apellido": "Rodriguez",
+    "edad": 67,
+    "fecha": "2021-11-15T06:02:03",
+    "provincia": "Misiones"
+  }
+]
